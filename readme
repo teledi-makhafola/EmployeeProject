@@ -1,6 +1,10 @@
-planning 
+Planning 
+Registrations of employees and admin
+Login
+Web and desktop version of the project
+
 we have inputs that that are employee name, surname , phone number , email, department and salary
 framework inplemented was bootstrap
 html used to code the GUI on vs code
 pushed to github
-working on css and API
+Working on adding css to our html structure and creating an API to allow the front end and backend to communicate.
